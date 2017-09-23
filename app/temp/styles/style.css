@@ -1,0 +1,13 @@
+h1 {
+  color: #2F2F2F;
+}
+
+h2 {
+  color: #444;
+  -webkit-columns: 300px 2;
+          columns: 300px 2;
+}
+
+.box a {
+    color: #333;
+  }

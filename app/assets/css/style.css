@@ -1,0 +1,16 @@
+$mainblue: #2F2F2F;
+
+h1 {
+  color: $mainblue;
+}
+
+h2 {
+  color: #444;
+  columns: 300px 2;
+}
+
+.box {
+  a {
+    color: #333;
+  }
+}
